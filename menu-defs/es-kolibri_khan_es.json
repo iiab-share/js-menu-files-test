@@ -6,11 +6,13 @@
   "start_url": "/",
   "title": "Kolibri Khan Academy in English - Cloned in adm cons to ES",
   "logo_url": "kolibri.png",
-  "description": "This should now update repo on save",
+  "description": "This should now update repo on save; now on sync",
   "extra_description": "",
   "extra_html": "en-kolibri.html",
   "footnote": "",
   "edit_status": "local_change",
   "commit_sha": null,
-  "change_ref": "admin_console - edit"
+  "previous_commit_sha": "b72889dca045d203fb632dc10570e24a06ef81d2",
+  "change_ref": "copy from repo",
+  "change_date": "2020-04-12"
 }
