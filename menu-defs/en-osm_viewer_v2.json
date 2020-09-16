@@ -1,0 +1,18 @@
+{
+  "name": "en-osm_viewer_v2",
+  "lang": "en",
+  "intended_use": "map",
+  "map_name": "",
+  "start_url": "viewer",
+  "title": "World Maps from OpenStreetMap",
+  "logo_url": "osm.jpg",
+  "description": "World Maps at various levels of zoom from OpenStreetMap",
+  "extra_description": "",
+  "extra_html": "",
+  "footnote": "",
+  "edit_status": "repo",
+  "commit_sha": null,
+  "previous_commit_sha": "e014e1826a52c163dcd1d1c2a0bcf7f3b55634f4",
+  "change_ref": "copy from repo",
+  "change_date": "2020-08-22"
+}
