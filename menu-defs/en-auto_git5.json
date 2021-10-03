@@ -1,0 +1,15 @@
+{
+  "name": "en-auto_git3.json",
+  "lang": "en",
+  "intended_use": "info",
+  "moddir": "",
+  "title": "Test file 3 for git automation newly updated",
+  "logo_url": "hamburger.png",
+  "description": "blah blah",
+  "edit_status": "repo",
+  "commit_sha": "4b8c076962204f6b77ff3418ff0d2d6e1523f848",
+  "change_ref": "copy from repo",
+  "change_date": "2021-07-28",
+  "upload_flag": false,
+  "download_flag": true
+}
