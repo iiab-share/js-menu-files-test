@@ -1,1 +1,15 @@
-ewogICJuYW1lIjogImVuLWF1dG9fZ2l0Lmpzb24iLAogICJsYW5nIjogImVuIiwKICAiaW50ZW5kZWRfdXNlIjogImluZm8iLAogICJtb2RkaXIiOiAiIiwKICAidGl0bGUiOiAiVGVzdCBmaWxlIGZvciBnaXQgYXV0b21hdGlvbiIsCiAgImxvZ29fdXJsIjogImhhbWJ1cmdlci5wbmciLAogICJkZXNjcmlwdGlvbiI6ICJibGFoIGJsYWgiLAogICJlZGl0X3N0YXR1cyI6ICJyZXBvIiwKICAiY29tbWl0X3NoYSI6ICI0YjhjMDc2OTYyMjA0ZjZiNzdmZjM0MThmZjBkMmQ2ZTE1MjNmODQ4IiwKICAiY2hhbmdlX3JlZiI6ICJjb3B5IGZyb20gcmVwbyIsCiAgImNoYW5nZV9kYXRlIjogIjIwMjEtMDctMjgiLAogICJ1cGxvYWRfZmxhZyI6IGZhbHNlLAogICJkb3dubG9hZF9mbGFnIjogdHJ1ZQp9Cg==
+{
+  "name": "en-auto_git.json",
+  "lang": "en",
+  "intended_use": "info",
+  "moddir": "",
+  "title": "Test file for git automation",
+  "logo_url": "hamburger.png",
+  "description": "blah blah",
+  "edit_status": "repo",
+  "commit_sha": "4b8c076962204f6b77ff3418ff0d2d6e1523f848",
+  "change_ref": "copy from repo",
+  "change_date": "2021-07-28",
+  "upload_flag": false,
+  "download_flag": true
+}
