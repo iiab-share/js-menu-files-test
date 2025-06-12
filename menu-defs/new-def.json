@@ -1,0 +1,15 @@
+{
+  "name": "new-def",
+  "lang": "en",
+  "intended_use": "zim",
+  "zim_name": "tes",
+  "title": "Test ZIM File",
+  "logo_url": "KiwixLogoVertical2.svg.png",
+  "description": "Changed the description",
+  "extra_html": "",
+  "edit_status": "repo",
+  "commit_sha": null,
+  "previous_commit_sha": null,
+  "change_ref": "copy from repo",
+  "change_date": "2019-12-16"
+}
